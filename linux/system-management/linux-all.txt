@@ -1,0 +1,11 @@
+syslog——linux系统默认的日志守护进程
+sudo——用来以其他身份来执行命令，预设的身份为root
+logwatch——
+chroot——change root directory更改root根目录
+lastb——	
+logrotate——	
+openssl——open secure sockets layer强大的安全套接字层密码库
+lastlog——	
+last——用于显示用户最近登录信息
+logsave——
+	

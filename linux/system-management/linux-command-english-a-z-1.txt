@@ -1,0 +1,79 @@
+CLIs(command-line interface) have existed since ages. 
+
+We can find their roots in the first instance of CLI 
+built for “interfacing with computers over teletype machines in the 1950s.” 
+
+It allows a user to interact with the system, 
+taking character-based command inputs from the keyboard or a script. 
+
+However, CLI is just an interface, 
+the main task is done by a program called command language interpreter.
+
+In the past, 
+we compiled the list of commands for the CMD command-line interpreter in Microsoft Windows, 
+you can take a look at it below:
+
+【Also Read: The Ultimate A to Z List Of Windows CMD Commands You Need To Know】
+
+It’s a known fact that the command line interface (CLI), 
+also known as the shell, 
+is an integral【必须的】 part of the digital lives of various Linux users 
+even when the graphical desktop environments on Linux systems have become quite user-friendly.
+
+The first piece of text you see when you land on the shell is called prompt【提示】. 
+It signifies system’s readiness to execute commands. 
+The shell is accessed using the Terminal 
+– a hardware device used to input data into, and displaying device from. 
+However, the terminal application you see on your Linux systems is an emulator【仿真程序】 
+that replicates【再生】 the jobs of a real-world terminal.
+
+Many people often confuse the terms shell and terminal. 
+Take the example of a car; 
+the body of the car is the terminal and 
+the dashboard【仪表盘】 can be considered as the shell 
+where you perform various operations like acceleration【加速】, reverse【倒退】, shifting【漂移】, etc. 
+The car responds to your actions performed using the dashboard. 
+Similarly, the terminal displays responses for the commands executed using the shell or CLI.
+
+☆ 
+
+Is Linux CLI case-sensitive【大小写敏感】?
+The answer is, yes. 
+If you try to run LS instead of ls, 
+it would display an error. 
+There are some advantages of using a case-sensitive command line. 
+The computers that existed in earlier decades weren’t fast enough, 
+it was favorable【赞同】 to compare identical【完全相同】 strings instead of normalizing【正常化】 the upper and lower cases. 
+This continued and became a habit, 
+even though today’s machines are way faster and efficient. 
+It also gives people the flexibility【灵活性】 over the choice of the command name.
+
+☆ 
+
+A-Z List of Linux Commands
+
+So, In this post, 
+I have tried to compile【编制】 a list of commands used in various Linux distributions. 
+This has been possible with inputs from 【Ubuntu manual-ubuntu手册】, SS64【https://ss64.com/】, and Linux Dev Center. 
+As you might be knowing, 
+some or many of these commands may not work on your distribution. 
+Running those commands may require you to install additional packages or 
+it’s just that the commands aren’t meant to work on your system.
+
+The descriptions of these Linux commands are based on their manual pages. 
+To access the man page:
+man command_name
+
+For eg: man cat
+If you find any discrepancy【不符合】, 
+please feel free to contact for any correction.
+
+[sheet]
+
+So, this was the compilation【编辑】 of different Linux commands. 
+I hope this A-Z Linux commands might help you in some way. 
+I’ve spent weeks curating【助理牧师】 these Linux commands from various sources and testing them. 
+If you find some command missing or some discrepency, 
+please give your valuable feedback【反馈】 and 
+help me make the overall【全面】 list better. 
+I’ll be looking forward to it.

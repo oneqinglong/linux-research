@@ -1,0 +1,20 @@
+
+我准备重头梳理一下构建java项目的过程
+所以我在D盘新建了一个文件夹Java
+然后再这里面重新装了相关的软件。
+
+## 下载软件
+下载eclipse，今天不知道为什么网络很慢地。
+
+.下载tomcat[apache-tomcat-8.5.20]
+2.下载apache[httpd-2.2.25-win32-x86-no_ssl]
+
+我还是先从maven开始说起来
+第一步，更改maven local repository
+第二步，创建项目NumberGenerator
+mvn archetype:generate -DgroupId=com.yiibai -DartifactId=NumberGenerator -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+第三步，让项目项目变成eclipse项目
+第四步，更新项目的pom.xml文件
+第五步，更新业务逻辑(写代码)
+第六步，maven打包
+第七步，运行项目或者部署
